@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reisemh3/web-dashboard/static/css/main.073c9b0a.css",
+    "main.js": "/reisemh3/web-dashboard/static/js/main.f64aa8e3.js",
+    "static/js/787.ae9c3d6e.chunk.js": "/reisemh3/web-dashboard/static/js/787.ae9c3d6e.chunk.js",
+    "static/media/logo.svg": "/reisemh3/web-dashboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reisemh3/web-dashboard/index.html",
+    "main.073c9b0a.css.map": "/reisemh3/web-dashboard/static/css/main.073c9b0a.css.map",
+    "main.f64aa8e3.js.map": "/reisemh3/web-dashboard/static/js/main.f64aa8e3.js.map",
+    "787.ae9c3d6e.chunk.js.map": "/reisemh3/web-dashboard/static/js/787.ae9c3d6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f64aa8e3.js"
+  ]
+}
